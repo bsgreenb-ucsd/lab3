@@ -37,7 +37,6 @@ function projectClick(e) {
    }
    else {
     $(".project-description").fadeToggle();
-     //description.html("<p>Stop clicking on me! You just did it at " + (new Date()) + "</p>");
    }
 }
 
